@@ -3,3 +3,11 @@ point 8 :
 Here is the link for access my crud operation
 
 https://github.com/Tkoradiya/node_express/tree/master
+
+
+*****Links for Modules******
+
+http://localhost:3000/department/display
+http://localhost:3000/enrollment/display
+http://localhost:3000/course/display
+http://localhost:3000/student/display
